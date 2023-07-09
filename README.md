@@ -1,4 +1,5 @@
 # Amazon_clone
+
 Hi,
 
 •The project is built on the technologies of HTML and CSS.
